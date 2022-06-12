@@ -1,0 +1,45 @@
+body
+{
+    background-image:url("background_image/background.jpg") ; ;
+}
+
+.divider
+{
+  background-color: dodgerblue;
+  
+}
+.heading
+{
+  font-family:serif;
+  font-size: 30px;
+}
+.right-text-position
+{
+  float: right;
+}
+.addbutton
+{
+  text-align: center ;
+}
+
+
+.counter
+{
+  text-align: left;
+  margin-top:10px; 
+}
+
+.Homepage
+{
+    width:600px;
+    height:auto;
+    margin : 10% auto 0;
+    text-align: center;
+    padding: 20px;
+}
+span
+{
+  font-weight: bolder;
+}
+
+

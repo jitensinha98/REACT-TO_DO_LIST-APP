@@ -1,0 +1,39 @@
+.tableheading
+{
+    background-color: cornflowerblue;
+    color:white;
+}
+.checkboxspecs
+{
+    width: 5px;
+}
+.spaceButton
+{
+display: inline-block;
+margin-right: 10px;
+}
+td{
+    word-break: break-all;
+}
+.table-text
+{
+    font-size: medium;
+    font-weight: 600;
+    
+}
+.button-icons
+{
+    pointer-events:none;
+}
+
+.text-strike
+{
+    text-decoration: line-through;
+}
+
+.Table_style
+{
+    align-items: center;
+    width: 800px
+}
+
