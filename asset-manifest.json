@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/REACT-TO_DO_LIST-APP/static/css/main.a2c65c5f.css",
+    "main.js": "/REACT-TO_DO_LIST-APP/static/js/main.9b2453b1.js",
+    "static/js/787.97a945da.chunk.js": "/REACT-TO_DO_LIST-APP/static/js/787.97a945da.chunk.js",
+    "static/media/background.jpg": "/REACT-TO_DO_LIST-APP/static/media/background.f6f5ce1d4977114c379b.jpg",
+    "index.html": "/REACT-TO_DO_LIST-APP/index.html",
+    "main.a2c65c5f.css.map": "/REACT-TO_DO_LIST-APP/static/css/main.a2c65c5f.css.map",
+    "main.9b2453b1.js.map": "/REACT-TO_DO_LIST-APP/static/js/main.9b2453b1.js.map",
+    "787.97a945da.chunk.js.map": "/REACT-TO_DO_LIST-APP/static/js/787.97a945da.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a2c65c5f.css",
+    "static/js/main.9b2453b1.js"
+  ]
+}
